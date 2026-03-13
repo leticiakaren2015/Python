@@ -29,7 +29,7 @@ def main():
     if seguimento_de_reta(r1, r2, r3):
         print("Os seguimentos PODE FORMAR um triângulo!")
     else:
-        print("Os seguimentos NÃO PODE FORMAR um trângulo!")
+        print("Os seguimentos NÃO PODE FORMAR um triângulo!")
 
 # Perguntar ao usuário se ele deseja jogar novamente
 
